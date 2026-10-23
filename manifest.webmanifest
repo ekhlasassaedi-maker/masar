@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Masar · مسار",
+  "short_name": "Masar",
+  "description": "A private motor diary for Parkinson's disease, stored only on your phone. · مذكرة حركية خاصة لمرض باركنسون، محفوظة على جوالك فقط.",
+  "lang": "ar",
+  "dir": "auto",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f4f3",
+  "theme_color": "#2f4f86",
+  "categories": ["health", "medical"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
